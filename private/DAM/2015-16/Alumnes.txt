@@ -1,0 +1,32 @@
+Afegiu a aquest fitxer cadascú el seu nom en llista alfabètica i seguint l'exemple:
+
+ Alpuente Paraschos, Dimitri
+ Domenech Canalda, Marc
+ Duran Marti, Oscar
+ Alvarado Bertomeu, Adam
+ Domenech Canalda, Marc
+ Kharuk, Maksym 
+ Forés Campos, Francesc
+ Domenech Canalda, Marc és wapo
+<<<<<<< HEAD
+ Forés Castell, Pau
+=======
+>>>>>>> af0d9671462c48f573e7036560a7705badd12b62
+ Domenech Canalda, Marc
+ Kharuk, Maksym 
+ Forés Campos, Francesc
+ Duran Marti, Oscar
+ Bonavila, Alex
+ Kharuk, Maksym
+ Mayor Rodriguez, Marc-Albert
+ Tur Badenas, Sergi
+<<<<<<< HEAD
+Alvarado Bertomeu, Adam
+ Alex Lliso
+German Galia
+=======
+ Alvarado Bertomeu, Adam
+ Alex Lliso
+ German Galia
+>>>>>>> af0d9671462c48f573e7036560a7705badd12b62
+
