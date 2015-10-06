@@ -24,7 +24,7 @@ class Hello
 
     public function sayHello()
     {
-        echo "Hello " . $this->faker->name . "!\n";
+        echo "Hello Hola " . $this->faker->name . "!\n";
     }
 
 }
