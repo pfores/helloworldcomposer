@@ -1,0 +1,11 @@
+{
+    "name": "paufores/hello-world-composer",
+    "description": "prova",
+    "authors": [
+        {
+            "name": "Pau Forés",
+            "email": "paufores@iesebre.com"
+        }
+    ],
+    "require": {}
+}
