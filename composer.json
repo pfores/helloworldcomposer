@@ -7,5 +7,7 @@
             "email": "paufores@iesebre.com"
         }
     ],
-    "require": {}
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
 }
