@@ -1,0 +1,5 @@
+{
+    "require": {
+        "paufores/hello-world-composer": "0.*"
+    }
+}
