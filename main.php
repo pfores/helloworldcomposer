@@ -1,6 +1,8 @@
 <?php
 
-require __DIR__ . "/Hello.php";
+require __DIR__ . "/vendor/autoload.php";
+
+use Com\Iesebre\Dam2\paufores\helloworldcomposer\Hello;
 
 /**
  * Created by PhpStorm.

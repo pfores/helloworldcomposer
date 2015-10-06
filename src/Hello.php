@@ -1,6 +1,8 @@
 <?php
 
-require __DIR__ . "/vendor/autoload.php";
+namespace Com\Iesebre\Dam2\paufores\helloworldcomposer;
+
+use Faker\Factory;
 
 /**
  * Created by PhpStorm.
@@ -17,7 +19,7 @@ class Hello
      */
     public function __construct()
     {
-        $this->faker = Faker\Factory::create();
+        $this->faker = Factory::create();
     }
 
     public function sayHello()
