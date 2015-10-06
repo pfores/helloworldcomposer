@@ -1,4 +1,4 @@
-<?php
+<?php namespace Com\Iesebre\Dam2\paufores\Persons;
 
 /**
  * Created by PhpStorm.
@@ -8,12 +8,28 @@
  */
 class Person
 {
+    public $type = "persona";
 
     /**
      * Identificador de la persona. Per exemple: DNI, NIE
      * @var
      */
     public $personalId;
+
+    /**
+     * Person constructor.
+     * @param string $type
+     * @param $personalId
+     * @param $sn1
+     * @param $givenName
+     * @param $sn2
+     * @param $email
+     * @param $postalAddress
+     * @param $locality
+     * @param $postalCode
+     * @param $country
+     * @param $state
+     */
 
     /**
      * @return mixed
@@ -217,4 +233,9 @@ class Person
      * @var
      */
     public $country;
+
+    public function render()
+    {
+            echo "La {$this->type} té el nom " . $this->getGivenName() . "\n";
+    }
 }
