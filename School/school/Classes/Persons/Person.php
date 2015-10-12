@@ -1,4 +1,5 @@
 <?php namespace Com\Iesebre\Dam2\paufores\Persons;
+use Com\Iesebre\Dam2\paufores\Curriculum\Course;
 
 /**
  * Created by PhpStorm.

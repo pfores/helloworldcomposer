@@ -15,7 +15,7 @@ use Com\Iesebre\Dam2\paufores\Persons\Student;
  * Class ClassRoomGroup
  * @package Com\Iesebre\Dam2\paufores\Curriculum
  */
-class ClassRoomGroup
+class ClassRoomGroup extends Course
 {
 
     public $students = array();

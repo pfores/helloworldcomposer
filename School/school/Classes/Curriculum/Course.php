@@ -8,5 +8,6 @@
  */
 class Course
 {
-
+    public $name;
+    public $id_curs;
 }

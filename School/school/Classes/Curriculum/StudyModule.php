@@ -6,7 +6,7 @@
  * Date: 5/10/15
  * Time: 19:57
  */
-class StudyModule
+class StudyModule extends Study
 {
-
+    public $UF;
 }

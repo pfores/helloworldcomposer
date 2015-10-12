@@ -6,7 +6,7 @@
  * Date: 5/10/15
  * Time: 19:57
  */
-class StudySubmodules
+class StudySubmodules extends StudyModule
 {
-
+    public $NF;
 }
